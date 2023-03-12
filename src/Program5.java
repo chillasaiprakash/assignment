@@ -4,7 +4,7 @@ Intialize a character variable in a program and if the value is alphabet then pr
 "Alphabet" if it’s a number then print "Digit" and for other characters print "Special
 Character"
  */
-public class five {
+public class Program5 {
 
     public static void main(String args[]) {
         Scanner scanner = new Scanner(System.in);
