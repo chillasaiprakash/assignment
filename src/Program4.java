@@ -5,7 +5,7 @@ order. Eg1) if first character is s and second is e O/P: e,s Eg2) if first chara
 second is e O/P:a,e
 
  */
-public class four {
+public class Program4 {
     public static void main (String[] args) {
         System.out.println("enter the value");
         char item1;

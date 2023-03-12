@@ -1,4 +1,4 @@
-public class six {
+public class Program6 {
     /*
     Write a program to accept gender ("Male" or "Female") and age (1-120) from command
 line arguments and print the percentage of interest based on the given conditions.

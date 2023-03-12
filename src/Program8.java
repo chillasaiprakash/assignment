@@ -5,7 +5,7 @@ then print "Invalid Code". R->Red, B->Blue, G->Green, O->Orange, Y->Yellow,
 W->White.
 
  */
-public class eight {
+public class Program8 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class nine {
+public class Program9 {
     /*
     Write a program to print month in words, based on input month in numbers Example1:
      */

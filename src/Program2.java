@@ -3,7 +3,7 @@ import java.util.Scanner;
 Write a program to check if a given number is odd or even.
 
  */
-public class two {
+public class Program2 {
     public static void main (String[] args)
     {
         double a ;
