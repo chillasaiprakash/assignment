@@ -21,7 +21,7 @@ public class ListOfList {
                 List.of("6", "Atlanta")
         );
 
-        List<List<String>> lists= listOfLists.stream().filter(listOfLists.)
+       // List<List<String>> lists= listOfLists.stream().filter(listOfLists.)
         Map<String, Integer> map = new HashMap<>();
         for (List<String> list : listOfLists) {
             for (String str : list) {
